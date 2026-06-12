@@ -1,0 +1,541 @@
+{
+  "e1": {
+    "diverged": 25,
+    "support_only": 14,
+    "identical": 61,
+    "entry_channels": {
+      "supported": 9,
+      "food": 3,
+      "memory_shared,started,success,supported": 1,
+      "failure,food,success,supported": 1,
+      "started,success": 1,
+      "failure,memory_shared,started,supported": 2,
+      "food,started,success,supported": 2,
+      "food,memory_shared,started,success": 1,
+      "failure,started": 3,
+      "death,pop,started,success": 1,
+      "started,success,supported": 1
+    },
+    "details": [
+      {
+        "seed": 1003,
+        "first_diff": {
+          "supported": 12,
+          "started": 75,
+          "success": 75,
+          "failure": null,
+          "food": 75,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": 69,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1005,
+        "first_diff": {
+          "supported": 68,
+          "started": null,
+          "success": null,
+          "failure": null,
+          "food": 76,
+          "pop": 77,
+          "death": 77,
+          "birth": null,
+          "memory_shared": 78,
+          "trust_changed": null
+        },
+        "pop_diff": 1
+      },
+      {
+        "seed": 1008,
+        "first_diff": {
+          "supported": 43,
+          "started": 59,
+          "success": 59,
+          "failure": null,
+          "food": 50,
+          "pop": 49,
+          "death": 49,
+          "birth": null,
+          "memory_shared": 51,
+          "trust_changed": null
+        },
+        "pop_diff": -2
+      },
+      {
+        "seed": 1012,
+        "first_diff": {
+          "supported": 21,
+          "started": 22,
+          "success": 22,
+          "failure": 27,
+          "food": 16,
+          "pop": 53,
+          "death": 53,
+          "birth": null,
+          "memory_shared": 21,
+          "trust_changed": null
+        },
+        "pop_diff": 1
+      },
+      {
+        "seed": 1013,
+        "first_diff": {
+          "supported": 50,
+          "started": 50,
+          "success": 50,
+          "failure": 55,
+          "food": 54,
+          "pop": 53,
+          "death": 53,
+          "birth": null,
+          "memory_shared": 50,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1014,
+        "first_diff": {
+          "supported": 50,
+          "started": 57,
+          "success": 50,
+          "failure": 50,
+          "food": 50,
+          "pop": 58,
+          "death": 58,
+          "birth": null,
+          "memory_shared": 54,
+          "trust_changed": null
+        },
+        "pop_diff": -1
+      },
+      {
+        "seed": 1016,
+        "first_diff": {
+          "supported": 60,
+          "started": 80,
+          "success": null,
+          "failure": 80,
+          "food": null,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": null,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1024,
+        "first_diff": {
+          "supported": 13,
+          "started": 12,
+          "success": 12,
+          "failure": 74,
+          "food": 13,
+          "pop": 41,
+          "death": 41,
+          "birth": null,
+          "memory_shared": 26,
+          "trust_changed": null
+        },
+        "pop_diff": -1
+      },
+      {
+        "seed": 1028,
+        "first_diff": {
+          "supported": 39,
+          "started": 39,
+          "success": 50,
+          "failure": 39,
+          "food": 42,
+          "pop": 41,
+          "death": 41,
+          "birth": null,
+          "memory_shared": 39,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1033,
+        "first_diff": {
+          "supported": 44,
+          "started": 47,
+          "success": null,
+          "failure": 47,
+          "food": 48,
+          "pop": 54,
+          "death": 54,
+          "birth": null,
+          "memory_shared": 45,
+          "trust_changed": null
+        },
+        "pop_diff": -2
+      },
+      {
+        "seed": 1042,
+        "first_diff": {
+          "supported": 50,
+          "started": 50,
+          "success": 50,
+          "failure": 69,
+          "food": 50,
+          "pop": 65,
+          "death": 65,
+          "birth": null,
+          "memory_shared": 52,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1043,
+        "first_diff": {
+          "supported": null,
+          "started": 60,
+          "success": 60,
+          "failure": null,
+          "food": 60,
+          "pop": 67,
+          "death": 67,
+          "birth": null,
+          "memory_shared": 60,
+          "trust_changed": null
+        },
+        "pop_diff": 1
+      },
+      {
+        "seed": 1052,
+        "first_diff": {
+          "supported": 52,
+          "started": 51,
+          "success": null,
+          "failure": 51,
+          "food": null,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": 54,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1056,
+        "first_diff": {
+          "supported": null,
+          "started": 73,
+          "success": 73,
+          "failure": null,
+          "food": 74,
+          "pop": 73,
+          "death": 73,
+          "birth": null,
+          "memory_shared": 76,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1057,
+        "first_diff": {
+          "supported": 49,
+          "started": 50,
+          "success": null,
+          "failure": 50,
+          "food": null,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": null,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1058,
+        "first_diff": {
+          "supported": 60,
+          "started": 60,
+          "success": 60,
+          "failure": null,
+          "food": 60,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": 73,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1060,
+        "first_diff": {
+          "supported": 37,
+          "started": 58,
+          "success": null,
+          "failure": 58,
+          "food": 46,
+          "pop": 68,
+          "death": 68,
+          "birth": null,
+          "memory_shared": 50,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1065,
+        "first_diff": {
+          "supported": null,
+          "started": 55,
+          "success": null,
+          "failure": 55,
+          "food": 67,
+          "pop": 66,
+          "death": 66,
+          "birth": null,
+          "memory_shared": 56,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1074,
+        "first_diff": {
+          "supported": null,
+          "started": null,
+          "success": null,
+          "failure": null,
+          "food": 56,
+          "pop": 69,
+          "death": 69,
+          "birth": null,
+          "memory_shared": 64,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1075,
+        "first_diff": {
+          "supported": 59,
+          "started": null,
+          "success": null,
+          "failure": null,
+          "food": null,
+          "pop": null,
+          "death": null,
+          "birth": null,
+          "memory_shared": 66,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1076,
+        "first_diff": {
+          "supported": 48,
+          "started": 48,
+          "success": 53,
+          "failure": 48,
+          "food": 53,
+          "pop": 66,
+          "death": 66,
+          "birth": null,
+          "memory_shared": 48,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1085,
+        "first_diff": {
+          "supported": null,
+          "started": null,
+          "success": null,
+          "failure": null,
+          "food": 43,
+          "pop": 45,
+          "death": 45,
+          "birth": null,
+          "memory_shared": 47,
+          "trust_changed": null
+        },
+        "pop_diff": 0
+      },
+      {
+        "seed": 1091,
+        "first_diff": {
+          "supported": 28,
+          "started": 28,
+          "success": 28,
+          "failure": 43,
+          "food": 53,
+          "pop": 59,
+          "death": 59,
+          "birth": null,
+          "memory_shared": 36,
+          "trust_changed": null
+        },
+        "pop_diff": -2
+      },
+      {
+        "seed": 1096,
+        "first_diff": {
+          "supported": 52,
+          "started": 46,
+          "success": 52,
+          "failure": 46,
+          "food": 52,
+          "pop": 55,
+          "death": 55,
+          "birth": null,
+          "memory_shared": 47,
+          "trust_changed": null
+        },
+        "pop_diff": 1
+      },
+      {
+        "seed": 1099,
+        "first_diff": {
+          "supported": 23,
+          "started": 35,
+          "success": 67,
+          "failure": 35,
+          "food": 44,
+          "pop": 58,
+          "death": 58,
+          "birth": null,
+          "memory_shared": 29,
+          "trust_changed": null
+        },
+        "pop_diff": -1
+      }
+    ]
+  },
+  "e2_support": {
+    "stream": "support",
+    "year": 30,
+    "diverged": 7,
+    "mean_abs_pop_diff": 0.2857142857142857
+  },
+  "e2_mortality": {
+    "stream": "mortality",
+    "year": 30,
+    "diverged": 36,
+    "mean_abs_pop_diff": 0.4722222222222222
+  },
+  "e3": [
+    {
+      "seed": 1003,
+      "status": "diverged",
+      "pop_diff": 0,
+      "ladder": [
+        [
+          12,
+          "supported"
+        ],
+        [
+          69,
+          "memory_shared"
+        ],
+        [
+          75,
+          "food"
+        ],
+        [
+          75,
+          "started"
+        ],
+        [
+          75,
+          "success"
+        ]
+      ]
+    },
+    {
+      "seed": 1043,
+      "status": "diverged",
+      "pop_diff": 1,
+      "ladder": [
+        [
+          60,
+          "food"
+        ],
+        [
+          60,
+          "memory_shared"
+        ],
+        [
+          60,
+          "started"
+        ],
+        [
+          60,
+          "success"
+        ],
+        [
+          67,
+          "death"
+        ],
+        [
+          67,
+          "pop"
+        ]
+      ]
+    },
+    {
+      "seed": 1036,
+      "status": "identical",
+      "pop_diff": 0,
+      "ladder": []
+    },
+    {
+      "seed": 1096,
+      "status": "diverged",
+      "pop_diff": 1,
+      "ladder": [
+        [
+          46,
+          "failure"
+        ],
+        [
+          46,
+          "started"
+        ],
+        [
+          47,
+          "memory_shared"
+        ],
+        [
+          52,
+          "food"
+        ],
+        [
+          52,
+          "success"
+        ],
+        [
+          52,
+          "supported"
+        ],
+        [
+          55,
+          "death"
+        ],
+        [
+          55,
+          "pop"
+        ]
+      ]
+    }
+  ],
+  "residual_coupling": "Within-year, within-stream consumption shifts remain",
+  "note": "The separated model reseeds every year with (seed,year,stream), so it is a different world from the v1.4 coupled model. Comparison is limited to the ON-vs-OFF difference structure."
+}
