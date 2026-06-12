@@ -16,13 +16,12 @@ ROOT = Path.cwd()
 OUTPUTS = ROOT / "outputs"
 OUTPUTS.mkdir(exist_ok=True)
 
-SL3 = Path("C:/Users/yauki/OneDrive/デスクトップ/SL3")
-SHADOW_PATH = SL3 / "society_lab_v1_4_life_senses_memory_shadow3.py"
-EXPERIMENT_PATH = SL3 / "society_lab_v1_4_life_bridge_trust_nudge_experiment.py"
+ROOT = Path(__file__).resolve().parents[1]
+SHADOW_PATH = ROOT / "current" / "society_lab_v1_4_life_senses_memory_shadow3.py"
+EXPERIMENT_PATH = ROOT / "experiments" / "society_lab_v1_4_life_bridge_trust_nudge_experiment.py"
 
-if str(SL3) not in sys.path:
-    sys.path.insert(0, str(SL3))
-
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 def import_from_path(name: str, path: Path):
     spec = importlib.util.spec_from_file_location(name, path)
